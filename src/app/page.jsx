@@ -142,7 +142,7 @@ function Services() {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-        Whether it's adapting old games to new platforms or ensuring the top-notch performance of your latest release, your opportunities for growth (and our opportunities for billable hours) are virtually endless. 
+        Whether it&apos;s adapting old games to new platforms or ensuring the top-notch performance of your latest release, your opportunities for growth (and our opportunities for billable hours) are virtually endless. 
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -158,7 +158,7 @@ function Services() {
           </div>
           <List className="mt-16 lg:mt-0 lg:w-1/2 lg:min-w-[33rem] lg:pl-4">
             <ListItem title="Functional">
-              Our experts specialize in testing every aspect of your game's basic functionality, from controls to interfaces. No bug can hide from us!
+              Our experts specialize in testing every aspect of your game&apos;s basic functionality, from controls to interfaces. No bug can hide from us!
             </ListItem>
             <ListItem title="Compatibility">
               Our team ensures that your game will run smoothly on a wide range of hardware and software configurations. Maximize your audience with optimal compatibility.
@@ -193,7 +193,7 @@ export default async function Home() {
             No BS.<br/>Just QA.
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-          We're a dedicated team of video game enthusiasts committed to rigorous quality assurance. 
+          We&apos;re a dedicated team of video game enthusiasts committed to rigorous quality assurance. 
           Our mission? To help you deliver stellar gaming experiences that captivate players and stand the test of time.
           </p>
         </FadeIn>
